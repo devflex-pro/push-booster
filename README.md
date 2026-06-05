@@ -4,6 +4,8 @@ Push Booster is a source-available web-push traffic platform for internal operat
 
 The current codebase is alpha software. It is intended for local evaluation, architecture review and noncommercial use.
 
+![Push Booster admin dashboard](docs/assets/admin-dashboard.png)
+
 ## License
 
 This repository is licensed under the PolyForm Noncommercial License 1.0.0. Commercial use, including building a commercial product or hosted service based on this code, is not permitted without a separate commercial license.
