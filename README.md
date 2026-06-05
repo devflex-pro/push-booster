@@ -2,15 +2,17 @@
 
 Push Booster is a source-available web-push traffic platform for internal operator teams and media buyers. It combines publisher/source inventory, browser subscription collection, ClickHouse analytics, Redpanda delivery queues, Redis caps/state and sender workers.
 
-The current codebase is alpha software. It is intended for local evaluation, architecture review and noncommercial use.
+The current codebase is alpha software. It is intended for local evaluation, architecture review and self-hosted internal use.
 
 ![Push Booster admin dashboard](docs/assets/admin-dashboard.png)
 
 ## License
 
-This repository is licensed under the PolyForm Noncommercial License 1.0.0. Commercial use, including building a commercial product or hosted service based on this code, is not permitted without a separate commercial license.
+This repository is licensed under the Push Booster Source-Available License 1.0.
 
-This is not an OSI-approved open-source license because it restricts commercial use.
+You may self-host Push Booster for yourself or your organization, including revenue-generating use with your own traffic. You may not sell Push Booster itself, provide hosted/SaaS access, white-label it, resell it, or build a competing commercial product based on it without a separate written commercial license.
+
+This is not an OSI-approved open-source license because it restricts productization, resale and hosted commercial offerings.
 
 ## What Works
 

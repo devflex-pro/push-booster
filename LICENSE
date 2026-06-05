@@ -1,75 +1,71 @@
-Required Notice: Copyright (c) 2026 Push Booster contributors
+Push Booster Source-Available License 1.0
 
-# PolyForm Noncommercial License 1.0.0
+Copyright (c) 2026 Push Booster contributors
 
-<https://polyformproject.org/licenses/noncommercial/1.0.0>
+This license allows self-hosted use of Push Booster, including internal business use that helps you earn revenue from your own traffic, while prohibiting resale, hosted access, white-label use and competing commercial products based on Push Booster.
 
-## Acceptance
+## 1. Definitions
 
-In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+"Software" means the Push Booster source code, documentation, examples, assets and other materials distributed with this license.
 
-## Copyright License
+"You" means the individual or legal entity exercising rights under this license.
 
-The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
+"Your Organization" means You and any entity that controls, is controlled by, or is under common control with You.
 
-## Distribution License
+"Internal Use" means use of the Software by You or Your Organization for your own operations, including operating your own web-push traffic, campaigns, subscribers, analytics and media buying workflows.
 
-The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).
+"Commercial Product" means any product, service, hosted offering, managed service, SaaS, platform, white-label system, marketplace, reseller offering or paid access offering that is based on, includes, wraps, exposes, hosts or substantially competes with the Software.
 
-## Notices
+## 2. Permitted Use
 
-You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
+Subject to this license, You may:
 
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+- use, run and self-host the Software for personal use;
+- use, run and self-host the Software for Internal Use;
+- use the Software to operate your own traffic, campaigns and subscriber base, including revenue-generating traffic;
+- study, review, test and evaluate the Software;
+- modify the Software for your own permitted use;
+- make backup copies and internal copies for deployment, security, testing and operations.
 
-## Changes and New Works License
+## 3. Prohibited Use
 
-The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+You may not, without a separate written commercial license from the licensor:
 
-## Patent License
+- sell, rent, lease, sublicense or resell the Software;
+- provide the Software as a hosted service, SaaS, managed service or paid access service;
+- provide third parties with access to the Software as a product or service;
+- build, market or distribute a Commercial Product based on the Software;
+- offer white-label, marketplace, agency-hosted or reseller access to the Software;
+- use the Software to provide push-platform services for third-party customers as your product;
+- remove or obscure copyright, license or attribution notices;
+- use the Software in a way that violates applicable law.
 
-The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+## 4. Distribution
 
-## Noncommercial Purposes
+You may share unmodified copies of the Software for noncommercial evaluation if this license and all copyright notices are included.
 
-Any noncommercial purpose is a permitted purpose.
+You may not publicly distribute modified versions, forks, binaries, containers or hosted deployments of the Software without a separate written license from the licensor, except where required by applicable law.
 
-## Personal Uses
+## 5. Contributions
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+Unless otherwise agreed in writing, contributions submitted to the project may be used, modified and distributed by the licensor under this license or any later license for the Software.
 
-## Noncommercial Organizations
+## 6. No Trademark License
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
+This license does not grant rights to use the names, logos, trademarks or branding of Push Booster except as necessary to describe the Software accurately.
 
-## Fair Use
+## 7. No Warranty
 
-You may have "fair use" rights for the software under the law. These terms do not limit them.
+The Software is provided "as is", without warranties or conditions of any kind, whether express, implied or statutory, including warranties of merchantability, fitness for a particular purpose, title and non-infringement.
 
-## No Other Rights
+## 8. Limitation of Liability
 
-These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
+To the maximum extent permitted by law, the licensor and contributors will not be liable for any damages arising from this license or the Software, under any legal theory.
 
-## Patent Defense
+## 9. Termination
 
-If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
+If You violate this license, your rights under it terminate automatically. The licensor may reinstate your rights in writing after the violation is cured.
 
-## Violations
+## 10. Commercial Licensing
 
-The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
-
-## No Liability
-
-***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
-
-## Definitions
-
-The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
-
-**You** refers to the individual or entity agreeing to these terms.
-
-**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
-
-**Your licenses** are all the licenses granted to you for the software under these terms.
-
-**Use** means anything you do with the software requiring one of your licenses.
+For rights not granted by this license, including SaaS, hosted access, white-label use, managed service use, resale, sublicensing or distribution of modified versions, You need a separate written commercial license from the licensor.
