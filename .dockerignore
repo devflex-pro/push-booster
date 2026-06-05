@@ -1,0 +1,10 @@
+.git
+.codex
+.agents
+.bin
+bin
+admin-api
+node_modules
+dist
+apps/admin-frontend/node_modules
+apps/admin-frontend/dist

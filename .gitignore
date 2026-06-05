@@ -1,0 +1,8 @@
+.git/
+.codex/
+.agents/
+/admin-api
+/.bin/
+/bin/
+dist/
+node_modules/
